@@ -1,6 +1,6 @@
 # A fine React Native Starter Package
 
-At [amillionmonkeys](https://amillionmonkeys.co.uk) we're building lots of apps with React Native. This package is mostly an internal boilerplate for these projects, but I'm happy to share with the wider community. 
+At [amillionmonkeys](https://amillionmonkeys.co.uk) we're building lots of apps with React Native. This package is mostly an internal boilerplate for these projects, but I'm happy to share with the wider community. The app offers persistance state management, navigation, http request handling, environment variables and offline detection.
 
 ## Getting Started
 
